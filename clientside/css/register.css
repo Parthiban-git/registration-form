@@ -1,0 +1,12 @@
+.main{
+    height: auto;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.container>label{
+    color: white;
+}
